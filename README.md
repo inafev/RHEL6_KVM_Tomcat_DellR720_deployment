@@ -8,7 +8,7 @@ Online evernote document: Red Hat Enterprise Linux 6 remote deployment on Dell P
 Downloadable MHT document (recommended, same doc as above but easier to read): Remote Deployment Procedure of RHEL6.3 x86_64 on Dell PowerEdge R720, KVM Hypervisor (‘Virtual Host’) with VMs for WebApp on local storage, DELL USC, BIOS Boot partitioning, importance of detaching VG data from VG system (LVM2) on hypervisors and VMs, DELL PowerEdge firmware update via YUM, Macvtap, qcow2 pre-allocation, performance analysis script, network latency analysis, load testing with JMeter HTTP, Java Garbage Collector ulimit & tuning, sudo and Upstart scripts for Apache and Tomcat, importance of ports > 1024 no root for balanced Apaches, NTP, libvirt-snmp zenoss, KVM’s virsh CLI, rsync (solaris to linux migration), alternatives to portal/CMS Microsoft Sharepoint, etc.
 
 This MHT/MHTML document can be open by the following tools:
-  Browsers: Microsoft Internet Explorer, Firefox (with the Mozilla Archive Format extension), Chrome (extension required), Opera
-  Editors: Evernote, Microsoft Word 2010, Microsoft Powerpoint 2010,  WizBrother WizHtmlEditor , Terra Informatics BlockNote.Net, Kingsoft Writer.
+- Browsers: Microsoft Internet Explorer, Firefox (with the Mozilla Archive Format extension), Chrome (extension required), Opera
+- Editors: Evernote, Microsoft Word 2010, Microsoft Powerpoint 2010,  WizBrother WizHtmlEditor , Terra Informatics BlockNote.Net, Kingsoft Writer.
 
 
