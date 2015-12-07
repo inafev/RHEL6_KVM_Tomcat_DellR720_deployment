@@ -1,0 +1,16 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>Exportación OPML de Thunderbird - Project Management</title>
+    <dateCreated>Mon, 10 Sep 2012 21:04:06 GMT</dateCreated>
+  </head>
+  <body>
+    <outline title="Project Management Article Archive | Project Smart">
+      <outline type="rss" title="Project Management Article Archive | Project Smart" text="Project Management Article Archive | Project Smart" version="RSS" fz:quickMode="false" xmlUrl="http://www.projectsmart.co.uk/rss-archive.xml" htmlUrl="http://www.projectsmart.co.uk/articles.html"/></outline>
+    <outline title="Project Management Articles | Project Smart">
+      <outline type="rss" title="Project Management Articles | Project Smart" text="Project Management Articles | Project Smart" version="RSS" fz:quickMode="false" xmlUrl="http://www.projectsmart.co.uk/rss.xml" htmlUrl="http://www.projectsmart.co.uk/articles.html"/></outline>
+    <outline title="Project Management Book Club">
+      <outline type="rss" title="Project Management Book Club" text="Project Management Book Club" version="RSS" fz:quickMode="false" xmlUrl="http://feeds.feedburner.com/PmBookClub?format=xml" htmlUrl="http://www.pmbookclub.com/"/></outline>
+    <outline title="Project Smart">
+      <outline type="rss" title="Project Smart" text="Project Smart" version="RSS" fz:quickMode="false" xmlUrl="http://www.projectsmart.co.uk/forums/feed.php" htmlUrl="http://www.projectsmart.co.uk/forums/index.php"/></outline>
+  </body>
+</opml>

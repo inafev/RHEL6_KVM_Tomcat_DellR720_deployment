@@ -1,0 +1,22 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>Exportación OPML de Thunderbird - Programming</title>
+    <dateCreated>Thu, 13 Sep 2012 09:34:33 GMT</dateCreated>
+  </head>
+  <body>
+    <outline title="Android Developers Discussion">
+      <outline type="rss" title="Android Developers Discussion" text="Android Developers Discussion" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/android-developers/rss/" htmlUrl="http://www.mentby.com/Group/android-developers/"/></outline>
+    <outline title="Drupal Support">
+      <outline type="rss" title="Drupal Support" text="Drupal Support" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/drupal-support/rss/" htmlUrl="http://www.mentby.com/Group/drupal-support/"/></outline>
+    <outline title="Perl Beginners">
+      <outline type="rss" title="Perl Beginners" text="Perl Beginners" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/perl-beginners/rss/" htmlUrl="http://www.mentby.com/Group/perl-beginners/"/></outline>
+    <outline title="PHP General Users">
+      <outline type="rss" title="PHP General Users" text="PHP General Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/php-general/rss/" htmlUrl="http://www.mentby.com/Group/php-general/"/></outline>
+    <outline title="Python General Discussion List">
+      <outline type="rss" title="Python General Discussion List" text="Python General Discussion List" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/python-list/rss/" htmlUrl="http://www.mentby.com/Group/python-list/"/></outline>
+    <outline title="Python Tutor">
+      <outline type="rss" title="Python Tutor" text="Python Tutor" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/python-tutor/rss/" htmlUrl="http://www.mentby.com/Group/python-tutor/"/></outline>
+    <outline title="Ruby-Talk">
+      <outline type="rss" title="Ruby-Talk" text="Ruby-Talk" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/ruby-talk/rss/" htmlUrl="http://www.mentby.com/Group/ruby-talk/"/></outline>
+  </body>
+</opml>

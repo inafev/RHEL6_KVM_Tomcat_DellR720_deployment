@@ -1,0 +1,73 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>Exportación OPML de Thunderbird - Linux Admin</title>
+    <dateCreated>Mon, 03 Sep 2012 19:48:36 GMT</dateCreated>
+  </head>
+  <body>
+    <outline title="Apache Geronimo">
+      <outline type="rss" title="Apache Geronimo" text="Apache Geronimo" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/apache-geronimo/rss/" htmlUrl="http://www.mentby.com/Group/apache-geronimo/"/></outline>
+    <outline title="Apache HTTPD Users">
+      <outline type="rss" title="Apache HTTPD Users" text="Apache HTTPD Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/httpd-users/rss/" htmlUrl="http://www.mentby.com/Group/httpd-users/"/></outline>
+    <outline title="Apache Lucene Java User List">
+      <outline type="rss" title="Apache Lucene Java User List" text="Apache Lucene Java User List" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/lucene-java-user/rss/" htmlUrl="http://www.mentby.com/Group/lucene-java-user/"/></outline>
+    <outline title="Apache Maven">
+      <outline type="rss" title="Apache Maven" text="Apache Maven" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/apache-maven/rss/" htmlUrl="http://www.mentby.com/Group/apache-maven/"/></outline>
+    <outline title="Apache Tomcat Users">
+      <outline type="rss" title="Apache Tomcat Users" text="Apache Tomcat Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/tomcat-user/rss/" htmlUrl="http://www.mentby.com/Group/tomcat-user/"/></outline>
+    <outline title="Asterisk Users">
+      <outline type="rss" title="Asterisk Users" text="Asterisk Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/asterisk-users/rss/" htmlUrl="http://www.mentby.com/Group/asterisk-users/"/></outline>
+    <outline title="Bacula">
+      <outline type="rss" title="Bacula" text="Bacula" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/bacula/rss/" htmlUrl="http://www.mentby.com/Group/bacula/"/></outline>
+    <outline title="CentOS Discussion and Information">
+      <outline type="rss" title="CentOS Discussion and Information" text="CentOS Discussion and Information" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/centos/rss/" htmlUrl="http://www.mentby.com/Group/centos/"/></outline>
+    <outline title="CentOS Virtualization">
+      <outline type="rss" title="CentOS Virtualization" text="CentOS Virtualization" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/centos-virt/rss/" htmlUrl="http://www.mentby.com/Group/centos-virt/"/></outline>
+    <outline title="Fedora List">
+      <outline type="rss" title="Fedora List" text="Fedora List" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/fedora-list/rss/" htmlUrl="http://www.mentby.com/Group/fedora-list/"/></outline>
+    <outline title="GlassFish Users">
+      <outline type="rss" title="GlassFish Users" text="GlassFish Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/glassfish-users/rss/" htmlUrl="http://www.mentby.com/Group/glassfish-users/"/></outline>
+    <outline title="Hadoop Common User">
+      <outline type="rss" title="Hadoop Common User" text="Hadoop Common User" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/hadoop-core-user/rss/" htmlUrl="http://www.mentby.com/Group/hadoop-core-user/"/></outline>
+    <outline title="High-Availability Linux">
+      <outline type="rss" title="High-Availability Linux" text="High-Availability Linux" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/linux-ha/rss/" htmlUrl="http://www.mentby.com/Group/linux-ha/"/></outline>
+    <outline title="KVM - The Linux Kernel-Based Virtual Machine">
+      <outline type="rss" title="KVM - The Linux Kernel-Based Virtual Machine" text="KVM - The Linux Kernel-Based Virtual Machine" version="RSS" fz:quickMode="false" xmlUrl="http://www.linux-kvm.com/rss.xml" htmlUrl="http://www.linux-kvm.com"/></outline>
+    <outline title="Linux Journal - The Original Magazine of the Linux Community">
+      <outline type="rss" title="Linux Journal - The Original Magazine of the Linux Community" text="Linux Journal - The Original Magazine of the Linux Community" version="RSS" fz:quickMode="false" xmlUrl="http://feeds.feedburner.com/linuxjournalcom" htmlUrl="http://www.linuxjournal.com/"/></outline>
+    <outline title="Memcached">
+      <outline type="rss" title="Memcached" text="Memcached" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/memcached/rss/" htmlUrl="http://www.mentby.com/Group/memcached/"/></outline>
+    <outline title="mysql.list@juun.com">
+      <outline type="rss" title="mysql.list@juun.com" text="mysql.list@juun.com" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/mysql-list/rss/" htmlUrl="http://www.mentby.com/mysql-list/"/></outline>
+    <outline title="Nagios Users">
+      <outline type="rss" title="Nagios Users" text="Nagios Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/nagios-users/rss/" htmlUrl="http://www.mentby.com/Group/nagios-users/"/></outline>
+    <outline title="Network Simulator Users">
+      <outline type="rss" title="Network Simulator Users" text="Network Simulator Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/ns-users/rss/" htmlUrl="http://www.mentby.com/Group/ns-users/"/></outline>
+    <outline title="Oracle List">
+      <outline type="rss" title="Oracle List" text="Oracle List" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/oracle-list/rss/" htmlUrl="http://www.mentby.com/Group/oracle-list/"/></outline>
+    <outline title="Penetration Testing Discussion">
+      <outline type="rss" title="Penetration Testing Discussion" text="Penetration Testing Discussion" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/pen-test/rss/" htmlUrl="http://www.mentby.com/Group/pen-test/"/></outline>
+    <outline title="Perl Beginners"/>
+    <outline title="PostgreSQL General">
+      <outline type="rss" title="PostgreSQL General" text="PostgreSQL General" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/pgsql-general/rss/" htmlUrl="http://www.mentby.com/Group/pgsql-general/"/></outline>
+    <outline title="Puppet Users">
+      <outline type="rss" title="Puppet Users" text="Puppet Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/puppet-users/rss/" htmlUrl="http://www.mentby.com/Group/puppet-users/"/></outline>
+    <outline title="Red Hat Noticias y Prensa">
+      <outline type="rss" title="Red Hat Noticias y Prensa" text="Red Hat Noticias y Prensa" version="RSS" fz:quickMode="false" xmlUrl="http://www.redhat.com/rss/feeds/newsandpress" htmlUrl="http://es.redhat.com/"/></outline>
+    <outline title="Redhat List">
+      <outline type="rss" title="Redhat List" text="Redhat List" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/redhat-list/rss/" htmlUrl="http://www.mentby.com/Group/redhat-list/"/></outline>
+    <outline title="Redhat SysAdmin List">
+      <outline type="rss" title="Redhat SysAdmin List" text="Redhat SysAdmin List" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/redhat-sysadmin-list/rss/" htmlUrl="http://www.mentby.com/Group/redhat-sysadmin-list/"/></outline>
+    <outline title="Samba">
+      <outline type="rss" title="Samba" text="Samba" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/samba/rss/" htmlUrl="http://www.mentby.com/Group/samba/"/></outline>
+    <outline title="Scientific Linux Users">
+      <outline type="rss" title="Scientific Linux Users" text="Scientific Linux Users" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/scientific-linux-users/rss/" htmlUrl="http://www.mentby.com/Group/scientific-linux-users/"/></outline>
+    <outline title="Security Basics">
+      <outline type="rss" title="Security Basics" text="Security Basics" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/security-basics/rss/" htmlUrl="http://www.mentby.com/Group/security-basics/"/></outline>
+    <outline title="The JBoss Users List">
+      <outline type="rss" title="The JBoss Users List" text="The JBoss Users List" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/jboss-users/rss/" htmlUrl="http://www.mentby.com/Group/jboss-users/"/></outline>
+    <outline title="Ubuntu">
+      <outline type="rss" title="Ubuntu" text="Ubuntu" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/ubuntu-users/rss/" htmlUrl="http://www.mentby.com/Group/ubuntu-users/"/></outline>
+    <outline title="Xen Users Discussion">
+      <outline type="rss" title="Xen Users Discussion" text="Xen Users Discussion" version="RSS" fz:quickMode="false" xmlUrl="http://www.mentby.com/Group/xen-users/rss/" htmlUrl="http://www.mentby.com/Group/xen-users/"/></outline>
+  </body>
+</opml>

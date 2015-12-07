@@ -1,0 +1,18 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>Exportación OPML de Thunderbird - DELL rss</title>
+    <dateCreated>Mon, 10 Sep 2012 21:00:43 GMT</dateCreated>
+  </head>
+  <body>
+    <outline title="Linux Forum - Recent Threads">
+      <outline type="rss" title="Linux Forum - Recent Threads" text="Linux Forum - Recent Threads" version="RSS" fz:quickMode="false" xmlUrl="http://en.community.dell.com/support-forums/software-os/f/3525/rss.aspx?Mode=0" htmlUrl="http://en.community.dell.com/support-forums/software-os/f/3525.aspx"/></outline>
+    <outline title="PowerEdge General HW Forum - Recent Threads">
+      <outline type="rss" title="PowerEdge General HW Forum - Recent Threads" text="PowerEdge General HW Forum - Recent Threads" version="RSS" fz:quickMode="false" xmlUrl="http://en.community.dell.com/support-forums/servers/f/956/rss.aspx?Mode=0" htmlUrl="http://en.community.dell.com/support-forums/servers/f/956.aspx"/></outline>
+    <outline title="Servers">
+      <outline type="rss" title="Servers" text="Servers" version="RSS" fz:quickMode="false" xmlUrl="http://en.community.dell.com/support-forums/servers/rss.aspx" htmlUrl="http://en.community.dell.com/support-forums/servers/default.aspx"/></outline>
+    <outline title="Software &amp; Operating Systems">
+      <outline type="rss" title="Software &amp; Operating Systems" text="Software &amp; Operating Systems" version="RSS" fz:quickMode="false" xmlUrl="http://en.community.dell.com/support-forums/software-os/rss.aspx" htmlUrl="http://en.community.dell.com/support-forums/software-os/default.aspx"/></outline>
+    <outline title="Systems Management Forum - Recent Threads">
+      <outline type="rss" title="Systems Management Forum - Recent Threads" text="Systems Management Forum - Recent Threads" version="RSS" fz:quickMode="false" xmlUrl="http://en.community.dell.com/support-forums/servers/f/177/rss.aspx?Mode=0" htmlUrl="http://en.community.dell.com/support-forums/servers/f/177.aspx"/></outline>
+  </body>
+</opml>
