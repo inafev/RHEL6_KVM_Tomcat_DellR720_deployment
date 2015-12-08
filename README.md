@@ -330,7 +330,7 @@
 - [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team] (http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team) 
 
 ### JVM
-- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](../blob/master/change_in_memory_management_java_8.md)
+- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](../master/change_in_memory_management_java_8.md)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
 - [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
 - [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
