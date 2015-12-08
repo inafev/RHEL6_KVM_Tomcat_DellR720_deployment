@@ -376,7 +376,7 @@
 - [Bareos open source data protection](http://www.bareos.com/en/)
 - [Metricon Reduces Backup Time by 80% with NetApp SteelStore](http://community.netapp.com/t5/Technology/Metricon-Reduces-Backup-Time-by-80-with-NetApp-SteelStore/ba-p/102486)
 - [Automatiza tus backups con rsync en Synology NAS - Qloudea Blog](http://qloudea.com/blog/automatiza-tus-backups-con-rsync-en-synology/)
-- [Veeam Endpoint Backup Free for desktops and laptops]http://www.veeam.com/endpoint-backup-free.html)
+- [Veeam Endpoint Backup Free for desktops and laptops](http://www.veeam.com/endpoint-backup-free.html)
 - [VMWare ESXi 5.1 (Free) Easily backup your Virtual Machines using Veeam Backup & Replication (Free)](https://www.youtube.com/watch?v=05dkQnhY9qo)
 - [Architecture and Deployment Deep Dive Veeam Backup & Replication v7](https://www.youtube.com/watch?v=8xiucXOinqw)
 - [Vembu Online Backup supports Amazon Glacier](https://www.vembu.com/blog/vembu-supports-amazon-glacier)
