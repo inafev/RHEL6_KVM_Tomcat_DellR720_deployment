@@ -66,6 +66,7 @@
 - [​CoreOS brings end-to-end trusted computing to containers](http://www.zdnet.com/article/coreos-brings-end-to-end-trusted-computing-to-containers/)
 - [10 Awesome Docker Tutorials to Kick-Start your DevOps Projects](http://www.javacodegeeks.com/2015/11/10-awesome-docker-tutorials-to-kick-start-your-devops-projects.html)
 - [Docker cookbook](http://shop.oreilly.com/product/0636920036791.do?sortby=publicationDate)
+- [Docker in Action - Fitter, Happier, More Productive](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/)
 
 ### Configuration Management, Vagrant
 - [Learning Puppet with Vagrant, video tutorial at sysadmincasts.com](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
@@ -106,6 +107,9 @@
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
 
 ### DevOps
+- [Agilidad, por Javier Garzás](https://www.youtube.com/watch?v=oShXAC26rcs)
+- [Un video imprescindible sobre la buena gestión de equipos software](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
+- Scrum’s creators seek definitive place for Scrum knowledge http://www.scrumguides.org/
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 - [What to Expect From a DevOps Interview](https://dzone.com/articles/what-to-expect-from-a-devops-interview)
 - [Why You’ll NEVER Nail That DevOps Interview](https://dzone.com/articles/why-youll-never-nail-that-devops-interview-1)
@@ -157,6 +161,7 @@
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
 - [Using GIT to backup your website files on linux](http://techarena51.com/index.php/using-git-backup-website-files-on-linux/)
 - [Sysadmincasts.com: Git to Puppet Deployment Workflow](https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow)
+- [David Baumgold - Advanced Git - PyCon 2015](https://www.youtube.com/watch?v=4EOZvow1mk4)
 - [Udemy e-learning: Git Going Fast: One Hour Git Crash Course - Free](https://www.udemy.com/git-going-fast/)
 - [Newrelic: GitHub Flow - Collaborating effectively using Git and GitHub](https://newrelic.com/webinar/github-for-teams)
 - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete)
@@ -187,6 +192,7 @@
 ### Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
 - [Spark Streaming: What Is It and Who’s Using It?](http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/)
+- [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 
 ### Weblogic
 - [WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
@@ -213,6 +219,7 @@
 - [Startupxplore, mapa con todas las startups TI](https://startupxplore.com/)
 
 ### Python analytics
+- [Python for Data Science vs Python for Web Development](http://www.datasciencecentral.com/profiles/blogs/python-for-data-science-vs-python-for-web-development)
 - [The State of Python for Data Science, PySS 2015](https://speakerdeck.com/chdoig/the-state-of-python-for-data-science-pyss-2015)
 - [Distributed Computing on your Cluster with Anaconda (modern open source analytics platform powered by Python) - Webinar 2015](http://www.slideshare.net/continuumio/distributed-computing-on-your-cluster-with-anaconda-webinar-2015)
 - [Jeff Reback's pandas tutorial at PyDataNYC2015, notebooks included](https://github.com/jreback/pydatanyc2015)
@@ -222,6 +229,52 @@
 - [Continuum Analytics PyData NYC videos are live! Check them out to see talks on Anaconda, Bokeh, pandas, and more, including the keynote from Continuum co-founders Peter Wang and Travis Oliphant](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
 - [Jessica Forde: Visualizing Wireless Router Timeseries Data with the Density API, Seaborn, and Pandas](https://www.youtube.com/watch?v=V85G5Q-Lj9o&feature=youtu.be&list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
 - [Network data, also known as linked data, is the new frontier of data analysis](https://www.youtube.com/watch?v=wcrwASR5DCQ&index=42&list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
+ 
+### Python
+- Learn Python Django in 4 Hours https://dzone.com/articles/learn-python-django-in-4-hours
+- Django Development With Docker Compose and Machine https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
+- Setting up Python on OSX: UPDATED http://staticnat.com/setting-up-python-on-osx/
+- HTML5 and CSS3 Code Generator Tools List, Initializr es quizás el más popular http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list
+- 18 best online resources for learning sql and database concepts http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database
+- How do you handle the ORM problem? When do you say YES or NO to using ORM? http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood
+- RegExr: Learn, Build, & Test RegEx http://www.regexr.com/
+- TaskBuster Django Tutorial, made with Django 1.8 and Python 3. http://www.marinamele.com/taskbuster-django-tutorial
+- Don't Make Us Say We Told You So: virtualenv for New Pythonistas http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for
+- Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities http://www.pyvideo.org/video/3512/shiny-lets-be-bad-guys-exploiting-and-mitigati-3
+- TDD with Django, from scratch: a beginner's intro to testing and web development http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro
+- The docker-py repository: an API client for docker written in Python http://docker-py.readthedocs.org/en/stable/api/
+- Java Vs. Python - Which Programming Language is More Productive? - Infographic http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive
+- Cómo crear un servicio REST en 30 líneas de código de Django y Python http://www.genbetadev.com/desarrolloparastartups/como-crear-un-servicio-rest-en-30-lineas-de-codigo-de-django-y-python
+- Koding is a developer community and cloud development environment where developers come together and code in the browser – with a real development server to run their code. Developers can work, collaborate, write and run apps without jumping through hoops and spending unnecessary money. https://koding.com/
+- I wish I knew these things when I learned Python http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/
+- gabbi - Declarative HTTP testing library pypi http://pypi.python.org/pypi/gabbi/
+- Python mini-quiz http://www.mypythonquiz.com/
+- Python mini-course http://ai.berkeley.edu/tutorial.html#PythonBasics
+- Setting Up Sublime Text 3 for Full Stack Python Development https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
+- [Testing Python](http://it-ebooks.info/book/3778/)
+- The Flask Mega-Tutorial: Now with Python 3 Support http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support
+- [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
+- https://github.com/boto/boto
+- Managing the Cloud with a Few Lines of Python (EuroPython 2014) http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python
+- Sublime Text Unofficial Documentation http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/
+- Create and Open GitHub Gists from Sublime Text http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/
+- Full-featured Git integration for Sublime Text 2 and 3 http://sublimegit.net/
+- An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta) http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
+- Python progression path - From apprentice to guru https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
+- Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface. http://devdocs.io
+- Web Development using Python & Django https://www.mysliderule.com/learning-paths/web-development-python-django/
+- A beginner's guide to web development with Python 2.7 / Django 1.7 http://www.tangowithdjango.com/
+- http://www.learnpython.org
+- https://github.com/vinta/awesome-python/
+- https://github.com/rosarior/awesome-django
+- Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics. http://www.fullstackpython.com/
+- Django Development With Docker Compose and Machine https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
+- The Bottom-Line Single Main Difference Between Python 2 and 3 http://migrateup.com/main-difference-python-3/
+- Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/
+- Profiling Python using cProfile: a concrete case https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara
+- Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team 
+- Python 3.4 Programming Tutorials - YouTube https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ 
+- 15 Essential Python Interview Questions https://www.codementor.io/python/tutorial/essential-python-interview-questions
 
 ### AWS
 - [Sysadmincasts.com: Introduction to Amazon Web Services (AWS)](https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws)
