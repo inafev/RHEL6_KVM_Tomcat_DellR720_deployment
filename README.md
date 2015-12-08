@@ -5,7 +5,7 @@
 - [The URL reference document in HTML format rendered with rawgit](https://rawgit.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/master/URL%20references.html)
 - [The evernote online version of this MHT document](http://bit.ly/Ulb98Q )
 
-The raw MHT/MHTML document cannot be rendered by rawgit. An MHT document can sometimes be easier to share and read compared to the online version, and can be open by the following tools:
+The [raw MHT/MHTML document](https://github.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/RHEL6-deployment-on-Dell-r720-best-practices-inakifernandez.mht) cannot be rendered by rawgit. An MHT document can sometimes be easier to share and read compared to the online version, and can be open by the following tools:
 - Browsers: Microsoft Internet Explorer, Firefox (with the Mozilla Archive Format extension), Chrome (extension required), Opera
 - Editors: Evernote, Microsoft Word 2010, Microsoft Powerpoint 2010, WizBrother WizHtmlEditor, Terra Informatics BlockNote.Net, Kingsoft Writer.
 
