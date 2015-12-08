@@ -31,7 +31,7 @@
 - [How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)] (http://www.tecmint.com/install-and-configure-kvm-in-linux/)
 - [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
 
-## Red Hat Enterprise Linux docs
+## Red Hat docs
 - [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
 - [Product documentation](https://access.redhat.com/documentation/en/)
 - [Reddit: redhat](https://www.reddit.com/r/redhat/)
