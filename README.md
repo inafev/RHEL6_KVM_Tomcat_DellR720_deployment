@@ -233,8 +233,10 @@
 - http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html
 - https://www.htcia.org/
 - Una forma de evitar los ataques DDoS similares a macof es bloquear desde los firewalls las conexiones (SYN) con MSS=0 y WinSize=0.
-- [wireshark's colors] (bit.ly/nmapcolors)
+- [wireshark's colors] (http://bit.ly/nmapcolors)
 - [How to Use Wireshark to Analyze Video] (http://sharkfest.wireshark.org/sharkfest.13/presentations/PA-11_How-to-Use-Wireshark-to-Analyze-Video_Betty-DuBois.pdf)
+- [Sharkfest '14 Retrospective. Videos y presentaciones del congreso anual de Wireshark](http://sharkfest.wireshark.org/sharkfest.14/)
+- [Sharkfest '14 presentations](http://sharkfest.wireshark.org/sharkfest.14/presentations/B6-Get%20Started%20with%20HTTP%20Analysis.pdf)
 - [Tuning Win7 Using Wireshark’s TCP Stream Graph] (http://sharkfest.wireshark.org/sharkfest.12/presentations/A-3_A-10_Tuning_Win7_Using_Wireshark_TCP_Stream_Graph_a_Case_Study.pdf)
 - [Videos con formación en redes publicados por INE.com .Recomiendo el playlist de Wireshark, si bien hay videos formativos en otras disciplinas.](https://www.youtube.com/user/INEtraining/playlists)
 - [Fiddler complementa muy bien a las devtools de Firefox ó Chrome (F12 key) para capturar y analizar trazas de tráfico HTTP. Alternativa a Wireshark para HTTP Network Forensics.] (http://www.telerik.com/fiddler)
