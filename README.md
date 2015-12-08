@@ -37,7 +37,7 @@
 - [Why docker](http://www.javacodegeeks.com/2015/11/why-docker.html)
 - [Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
 - [Deploying Containers with Docker Swarm and Docker Networking](http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html)
-- [Docker for the python developer](http://talkpython.fm/episodes/show/9/docker-for-the-python-developer)
+- [Docker for the python developer, podcast at http://talkpython.fm/](http://talkpython.fm/episodes/show/9/docker-for-the-python-developer)
 - [How to be Successful Running Docker in Production](http://www.infoq.com/news/2015/11/running-docker-production)
 - [Monitoring Docker: Part II](http://blog.logscape.com/2014/07/monitoring-docker-part-ii/)
 - [Gathering LXC and Docker containers metrics](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
