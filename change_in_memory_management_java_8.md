@@ -1,4 +1,4 @@
-## Cambios importantes en la gestión de memoria de Java 8 de Oracle
+## Cambios importantes en la gestión de memoria de Java 8 de Oracle (2014)
 
 PermGen no pertenece al heap y los objetos no son promocionados a esta sección de memoria gestionada durante un GC. Como bien dices es un espacio contiguo al heap, pero también se limpia cada vez que la tenured/old generation procede a un GC. No es una generación separada del mismo modo que es la young generation, y no hay un mecanismo específico para un GC separado de PermGen. La tenured/old generation y la permanent generation proceden a un GC cuando una de las dos se llena.
 
