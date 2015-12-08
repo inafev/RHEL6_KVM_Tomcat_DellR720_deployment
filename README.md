@@ -253,7 +253,7 @@
 - [15 Essential Python Interview Questions](https://www.codementor.io/python/tutorial/essential-python-interview-questions)
 - [Learn Python Django in 4 Hours](https://dzone.com/articles/learn-python-django-in-4-hours)
 - [Django Development With Docker Compose and Machine] (https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
-- [Setting up Python on OSX: UPDATED (http://staticnat.com/setting-up-python-on-osx/
+- [Setting up Python on OSX: UPDATED](http://staticnat.com/setting-up-python-on-osx/)
 - [18 best online resources for learning sql and database concepts] (http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
 - [How do you handle the ORM problem? When do you say YES or NO to using ORM?] (http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood)
 - [TaskBuster Django Tutorial, made with Django 1.8 and Python 3](http://www.marinamele.com/taskbuster-django-tutorial)
