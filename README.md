@@ -249,39 +249,39 @@
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
 
 ### Python
-- [Python 3.4 Programming Tutorials - YouTube] https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ 
-- [15 Essential Python Interview Questions] https://www.codementor.io/python/tutorial/essential-python-interview-questions
-- [Learn Python Django in 4 Hours] https://dzone.com/articles/learn-python-django-in-4-hours
-- [Django Development With Docker Compose and Machine] https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
-- [Setting up Python on OSX: UPDATED http://staticnat.com/setting-up-python-on-osx/
-- [18 best online resources for learning sql and database concepts] http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database
-- [How do you handle the ORM problem? When do you say YES or NO to using ORM?] http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood
-- [TaskBuster Django Tutorial, made with Django 1.8 and Python 3]http://www.marinamele.com/taskbuster-django-tutorial
-- [Don't Make Us Say We Told You So: virtualenv for New Pythonistas] http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for
-- [TDD with Django, from scratch: a beginner's intro to testing and web development] http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro
-- [The docker-py repository: an API client for docker written in Python] http://docker-py.readthedocs.org/en/stable/api/
-- [Java Vs. Python - Which Programming Language is More Productive? - Infographic] http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive
-- [Cómo crear un servicio REST en 30 líneas de código de Django y Python] http://www.genbetadev.com/desarrolloparastartups/como-crear-un-servicio-rest-en-30-lineas-de-codigo-de-django-y-python
-- [Koding is a developer community and cloud development environment where developers come together and code in the browser – with a real development server to run their code. Developers can work, collaborate, write and run apps without jumping through hoops and spending unnecessary money.] https://koding.com/
-- [I wish I knew these things when I learned Python] http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/
-- [gabbi - Declarative HTTP testing library] pypi http://pypi.python.org/pypi/gabbi/
-- [Python mini-quiz]http://www.mypythonquiz.com/
-- [Python mini-course]http://ai.berkeley.edu/tutorial.html#PythonBasics
+- [Python 3.4 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) 
+- [15 Essential Python Interview Questions](https://www.codementor.io/python/tutorial/essential-python-interview-questions)
+- [Learn Python Django in 4 Hours](https://dzone.com/articles/learn-python-django-in-4-hours)
+- [Django Development With Docker Compose and Machine] (https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+- [Setting up Python on OSX: UPDATED (http://staticnat.com/setting-up-python-on-osx/
+- [18 best online resources for learning sql and database concepts] (http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
+- [How do you handle the ORM problem? When do you say YES or NO to using ORM?] (http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood)
+- [TaskBuster Django Tutorial, made with Django 1.8 and Python 3](http://www.marinamele.com/taskbuster-django-tutorial)
+- [Don't Make Us Say We Told You So: virtualenv for New Pythonistas] (http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for)
+- [TDD with Django, from scratch: a beginner's intro to testing and web development] (http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
+- [The docker-py repository: an API client for docker written in Python](http://docker-py.readthedocs.org/en/stable/api/)
+- [Java Vs. Python - Which Programming Language is More Productive? - Infographic] (http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive)
+- [Cómo crear un servicio REST en 30 líneas de código de Django y Python] (http://www.genbetadev.com/desarrolloparastartups/como-crear-un-servicio-rest-en-30-lineas-de-codigo-de-django-y-python)
+- [Koding is a developer community and cloud development environment where developers come together and code in the browser – with a real development server to run their code. Developers can work, collaborate, write and run apps without jumping through hoops and spending unnecessary money.] (https://koding.com/)
+- [I wish I knew these things when I learned Python] (http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)
+- [gabbi - Declarative HTTP testing library pypi](http://pypi.python.org/pypi/gabbi/)
+- [Python mini-quiz](http://www.mypythonquiz.com/)
+- [Python mini-course](http://ai.berkeley.edu/tutorial.html#PythonBasics)
 - [Testing Python](http://it-ebooks.info/book/3778/)
-- [The Flask Mega-Tutorial: Now with Python 3 Support] http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support
-- [Python progression path - From apprentice to guru] https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
-- [Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] http://devdocs.io
-- [Web Development using Python & Django] https://www.mysliderule.com/learning-paths/web-development-python-django/
-- [A beginner's guide to web development with Python 2.7 / Django 1.7]http://www.tangowithdjango.com/
+- [The Flask Mega-Tutorial: Now with Python 3 Support] (http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
+- [Python progression path - From apprentice to guru] (https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
+- [Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
+- [Web Development using Python & Django] (https://www.mysliderule.com/learning-paths/web-development-python-django/)
+- [A beginner's guide to web development with Python 2.7 / Django 1.7](http://www.tangowithdjango.com/)
 - http://www.learnpython.org
 - https://github.com/vinta/awesome-python/
 - https://github.com/rosarior/awesome-django
-- [Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics] http://www.fullstackpython.com/
-- [Django Development With Docker Compose and Machine] https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
-- [The Bottom-Line Single Main Difference Between Python 2 and 3] http://migrateup.com/main-difference-python-3/
-- [Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian] http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/
-- [Profiling Python using cProfile: a concrete case] https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara
-- [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team] http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team 
+- [Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics](http://www.fullstackpython.com/)
+- [Django Development With Docker Compose and Machine] (https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+- [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
+- [Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian] (http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/)
+- [Profiling Python using cProfile: a concrete case] (https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara)
+- [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team] (http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team) 
 
 ### HTML5
 - HTML5 and CSS3 Code Generator Tools List, Initializr es quizás el más popular http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list
