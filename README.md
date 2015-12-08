@@ -240,11 +240,11 @@
 - [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
 
 ### Editors
-- Setting Up Sublime Text 3 for Full Stack Python Development https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
-- Sublime Text Unofficial Documentation http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/
-- Create and Open GitHub Gists from Sublime Text http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/
-- Full-featured Git integration for Sublime Text 2 and 3 http://sublimegit.net/
-- An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta) http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
+- [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+- [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
+- [Create and Open GitHub Gists from Sublime Text] (http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
+- [Full-featured Git integration for Sublime Text 2 and 3] (http://sublimegit.net/)
+- [An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta)] (http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 - [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
 
