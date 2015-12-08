@@ -1,11 +1,9 @@
-# Red Hat Enterprise Linux 6 remote deployment on Dell PowerEdge R720 & KVM virtualization with qcow2 pre-allocation (MHT document, year 2012)
+# Red Hat Enterprise Linux 6 remote deployment on Dell PowerEdge R720 & KVM virtualization with qcow2 pre-allocation (2012)
 
 - Document Title: Best practices, recommendations and notes: Red Hat Enterprise Linux 6.3 remote installation/deployment on DELL PowerEdge R720 (12G), KVM hypervisor, Tomcat7, Uptime &amp; Performance Tips.
+- [This document in HTML format rendered with rawgit] (https://rawgit.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/master/RHEL6_KVM_Tomcat_DellR720_deployment.html)  
+- [The URL reference document in HTML format rendered with rawgit](https://rawgit.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/master/URL%20references.html)
 - [The evernote online version of this MHT document](http://bit.ly/Ulb98Q )
-
-This MHT/MHTML document is not rendered by github. An MHT document is easier to share and read compared to the online version, and can be open by the following tools:
-- Browsers: Microsoft Internet Explorer, Firefox (with the Mozilla Archive Format extension), Chrome (extension required), Opera
-- Editors: Evernote, Microsoft Word 2010, Microsoft Powerpoint 2010, WizBrother WizHtmlEditor, Terra Informatics BlockNote.Net, Kingsoft Writer.
 
 ### Table of contents
 1. Remote Deployment Procedure of RHEL6.3 x86_64 on Dell PowerEdge R720
@@ -28,4 +26,6 @@ This MHT/MHTML document is not rendered by github. An MHT document is easier to 
 18. rsync (solaris to linux migration), alternatives to portal/CMS Microsoft Sharepoint, etc.
 
 
-
+## New reference list updated, December 2015:
+- [How to Install RedHat Enterprise Virtualization (RHEV) 3.5] (http://www.tecmint.com/install-redhat-virtualization-rhev/)
+- [How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)] (http://www.tecmint.com/install-and-configure-kvm-in-linux/)
