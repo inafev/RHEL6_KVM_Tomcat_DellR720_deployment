@@ -27,10 +27,11 @@ En cualquier caso hay una tendencia al Heap-Offloading. El consumo de memoria en
 A) caché de sesión de usuarios, donde un fichero mapeado en memoria almacena gigabytes de sesiones de usuarios inactivos. Una vez que el usuario hace log-in, la aplicación dispone de todos sus datos sin ser necesaria una consulta a la BBDD. 
 B) caché de resultados computacionales como queries, páginas html, etc (donde el coste computacional es mayor a la deserialización)
 
-
-- Tecnologías de Heap-Offloading son EHcache, Memcached, Jillegal library, etc.  http://ehcache.org/
-- https://github.com/serkan-ozal/jillegal
+### Referencias
+- [Tecnologías de Heap-Offloading son EHcache, Memcached, Jillegal library, etc.](http://ehcache.org/)
+- [Jillegal OffHeap Module](https://github.com/serkan-ozal/jillegal)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
 - [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
 - [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
 - [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
+- [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
