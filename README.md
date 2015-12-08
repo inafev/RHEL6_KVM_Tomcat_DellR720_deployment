@@ -26,17 +26,24 @@
 18. rsync (solaris to linux migration), alternatives to portal/CMS Microsoft Sharepoint, etc.
 
 
-## New reference list updated, December 2015:
+# New reference list updated, December 2015
+## Virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5] (http://www.tecmint.com/install-redhat-virtualization-rhev/)
 - [How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)] (http://www.tecmint.com/install-and-configure-kvm-in-linux/)
 - [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
+## Microservices
 - [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
 - [What are Microservices?](https://www.linkedin.com/pulse/what-microservices-walli-datoo)
 - [Microservices architecture: advantages and drawbacks](http://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
+## Nginx
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
+## Devel environment
 - [Improve your development environments with virtualization](http://pyvideo.org/video/3411/improve-your-development-environments-with-virtua)
+## Data virtualization
 - [JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
+## Network virtualization
 - [FOSS Network Functions Virtualization](https://www.opnfv.org) 
+## Docker
 - [Free eBook - Docker Security: Using Containers Safely in Production](https://www.openshift.com/promotions/docker-security.html)
 - [Why docker](http://www.javacodegeeks.com/2015/11/why-docker.html)
 - [Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
