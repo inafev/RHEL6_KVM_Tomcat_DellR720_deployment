@@ -155,6 +155,16 @@
 ### Git
 - [GitHub lanza su propio curso de formación; ¿el objetivo? Que los desarrolladores exploten todo su potencial](http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial)
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
+- [Using GIT to backup your website files on linux](http://techarena51.com/index.php/using-git-backup-website-files-on-linux/)
+- [Sysadmincasts.com: Git to Puppet Deployment Workflow](https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow)
+- [Udemy e-learning: Git Going Fast: One Hour Git Crash Course - Free](https://www.udemy.com/git-going-fast/)
+- [Newrelic: GitHub Flow - Collaborating effectively using Git and GitHub](https://newrelic.com/webinar/github-for-teams)
+- [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete)
+- [Command Line Essentials: Git Bash for Windows (free)](https://www.udemy.com/git-bash/)
+- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
+- [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
+- [Git Recipes. A Problem-Solution Approach](http://it-ebooks.info/book/3259/)
+- [Git Pocket Guide](http://it-ebooks.info/book/2517/)
 
 ### Next Generation Firewalls
 - [Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
