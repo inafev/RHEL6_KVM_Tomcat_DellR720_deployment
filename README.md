@@ -229,8 +229,8 @@
 - [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
 - [MoSKito.org APM, herramienta de monitorización de JVMs en producción](http://www.moskito.org/)
 - [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
-- [GitHub: Capturing JVM- and application-level metrics. So you know what's going on] http://metrics.dropwizard.io
-- [GitHub: Dropwizard metrics] https://github.com/dropwizard/metrics
+- [GitHub: Capturing JVM- and application-level metrics. So you know what's going on](http://metrics.dropwizard.io)
+- [GitHub: Dropwizard metrics](https://github.com/dropwizard/metrics)
 - [Zipkin is a distributed tracing system that helps us gather timing data for all the disparate services at Twitter](http://twitter.github.io/zipkin)
 
 ### Centralized logging
