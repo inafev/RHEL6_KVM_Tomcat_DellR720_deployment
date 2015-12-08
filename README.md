@@ -166,8 +166,6 @@
 - [Newrelic: GitHub Flow - Collaborating effectively using Git and GitHub](https://newrelic.com/webinar/github-for-teams)
 - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete)
 - [Command Line Essentials: Git Bash for Windows (free)](https://www.udemy.com/git-bash/)
-- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
-- [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
 - [Git Recipes. A Problem-Solution Approach](http://it-ebooks.info/book/3259/)
 - [Git Pocket Guide](http://it-ebooks.info/book/2517/)
 
@@ -229,18 +227,37 @@
 - [Continuum Analytics PyData NYC videos are live! Check them out to see talks on Anaconda, Bokeh, pandas, and more, including the keynote from Continuum co-founders Peter Wang and Travis Oliphant](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
 - [Jessica Forde: Visualizing Wireless Router Timeseries Data with the Density API, Seaborn, and Pandas](https://www.youtube.com/watch?v=V85G5Q-Lj9o&feature=youtu.be&list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
 - [Network data, also known as linked data, is the new frontier of data analysis](https://www.youtube.com/watch?v=wcrwASR5DCQ&index=42&list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
- 
+
+### Python and AWS
+- [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
+- [Boto](https://github.com/boto/boto)
+- [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
+
+### Python, App Security
+- [pyvideo.org: Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities](http://www.pyvideo.org/video/3512/shiny-lets-be-bad-guys-exploiting-and-mitigati-3)
+
+### Regular expressions
+- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
+
+### Editors
+- Setting Up Sublime Text 3 for Full Stack Python Development https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
+- Sublime Text Unofficial Documentation http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/
+- Create and Open GitHub Gists from Sublime Text http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/
+- Full-featured Git integration for Sublime Text 2 and 3 http://sublimegit.net/
+- An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta) http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
+- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
+- [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
+
 ### Python
+- Python 3.4 Programming Tutorials - YouTube https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ 
+- 15 Essential Python Interview Questions https://www.codementor.io/python/tutorial/essential-python-interview-questions
 - Learn Python Django in 4 Hours https://dzone.com/articles/learn-python-django-in-4-hours
 - Django Development With Docker Compose and Machine https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
 - Setting up Python on OSX: UPDATED http://staticnat.com/setting-up-python-on-osx/
-- HTML5 and CSS3 Code Generator Tools List, Initializr es quizás el más popular http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list
 - 18 best online resources for learning sql and database concepts http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database
 - How do you handle the ORM problem? When do you say YES or NO to using ORM? http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood
-- RegExr: Learn, Build, & Test RegEx http://www.regexr.com/
 - TaskBuster Django Tutorial, made with Django 1.8 and Python 3. http://www.marinamele.com/taskbuster-django-tutorial
 - Don't Make Us Say We Told You So: virtualenv for New Pythonistas http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for
-- Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities http://www.pyvideo.org/video/3512/shiny-lets-be-bad-guys-exploiting-and-mitigati-3
 - TDD with Django, from scratch: a beginner's intro to testing and web development http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro
 - The docker-py repository: an API client for docker written in Python http://docker-py.readthedocs.org/en/stable/api/
 - Java Vs. Python - Which Programming Language is More Productive? - Infographic http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive
@@ -250,16 +267,8 @@
 - gabbi - Declarative HTTP testing library pypi http://pypi.python.org/pypi/gabbi/
 - Python mini-quiz http://www.mypythonquiz.com/
 - Python mini-course http://ai.berkeley.edu/tutorial.html#PythonBasics
-- Setting Up Sublime Text 3 for Full Stack Python Development https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
 - [Testing Python](http://it-ebooks.info/book/3778/)
 - The Flask Mega-Tutorial: Now with Python 3 Support http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support
-- [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
-- https://github.com/boto/boto
-- Managing the Cloud with a Few Lines of Python (EuroPython 2014) http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python
-- Sublime Text Unofficial Documentation http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/
-- Create and Open GitHub Gists from Sublime Text http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/
-- Full-featured Git integration for Sublime Text 2 and 3 http://sublimegit.net/
-- An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta) http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
 - Python progression path - From apprentice to guru https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
 - Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface. http://devdocs.io
 - Web Development using Python & Django https://www.mysliderule.com/learning-paths/web-development-python-django/
@@ -273,8 +282,9 @@
 - Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/
 - Profiling Python using cProfile: a concrete case https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara
 - Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team 
-- Python 3.4 Programming Tutorials - YouTube https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ 
-- 15 Essential Python Interview Questions https://www.codementor.io/python/tutorial/essential-python-interview-questions
+
+### HTML5
+- HTML5 and CSS3 Code Generator Tools List, Initializr es quizás el más popular http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list
 
 ### AWS
 - [Sysadmincasts.com: Introduction to Amazon Web Services (AWS)](https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws)
