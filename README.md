@@ -139,6 +139,8 @@
 ### Metric monitoring
 - [Linux cluster sysadmin — OS metric monitoring with colmux](http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/)
 - [Netflix and linux performance analysis in 60 seconds](http://www.itworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
+- [Why use Sensu?](http://www.rampmeupscotty.com/blog/2013/01/20/why-use-sensu/)
+- [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
 
 ### Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
@@ -186,3 +188,5 @@
 - [Learning Puppet - Udemy](https://www.udemy.com/learning-puppet/)
 - [Taming Big Data with Apache Spark - Hands On! - Udemy (~11-12€ with corresponding coupon)](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
+- [Zabbix Network Monitoring Essentials - Udemy](https://www.udemy.com/zabbix-network-monitoring-essentials/)
+- [Udemy - Sensu - Introduction (Gratuito, alternativa a Zabbix, Icinga y Nagios)](https://www.udemy.com/sensu-introduction/)
