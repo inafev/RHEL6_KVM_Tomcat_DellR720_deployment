@@ -396,7 +396,6 @@
 - [Patching the GHOST glibc gethostbyname CVE-2015-0235 bug](https://sysadmincasts.com/episodes/44-patching-the-ghost-glibc-gethostbyname-cve-2015-0235-bug)
 
 ### WiFi security
-- [WPA/WPA2 password cracking using aircrack](http://kanishkashowto.com/2014/04/01/wpawpa2-password-cracking-using-aircrack/)
 - [Analyzing the 1000 Most Common Wi-Fi Network Names](https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/)
 - https://www.ubnt.com/
 - http://www.arubanetworks.com/es/
