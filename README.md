@@ -233,7 +233,7 @@
 - http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html
 - https://www.htcia.org/
 - Una forma de evitar los ataques DDoS similares a macof es bloquear desde los firewalls las conexiones (SYN) con MSS=0 y WinSize=0.
-- [wireshark's colors] (http://bit.ly/nmapcolors)
+- [wireshark's colors, by Laura Chappell] (http://bit.ly/nmapcolors)
 - [How to Use Wireshark to Analyze Video] (http://sharkfest.wireshark.org/sharkfest.13/presentations/PA-11_How-to-Use-Wireshark-to-Analyze-Video_Betty-DuBois.pdf)
 - [Sharkfest '14 Retrospective. Videos y presentaciones del congreso anual de Wireshark](http://sharkfest.wireshark.org/sharkfest.14/)
 - [Sharkfest '14 presentation: Get started with HTTP Analysis](http://sharkfest.wireshark.org/sharkfest.14/presentations/B6-Get%20Started%20with%20HTTP%20Analysis.pdf)
