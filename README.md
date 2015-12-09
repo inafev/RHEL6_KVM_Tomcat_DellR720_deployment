@@ -478,7 +478,7 @@
 - [HP’s hyper-converged portfolio grows: meet the CS250-HC](http://www.bitcon.be/?p=3093)
 
 ### RAID disks
-- [Practical RAID Choices for Spindle Based Arrays](www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
+- [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
 - [Can I use a desktop hard drive in my storage array?](http://blog.seagate.com/business/can-i-use-a-desktop-hard-drive-in-my-storage-array/)
 
 ### Regular expressions
