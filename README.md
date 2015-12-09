@@ -244,6 +244,9 @@
 - [GitHub: Capturing JVM- and application-level metrics. So you know what's going on](http://metrics.dropwizard.io)
 - [GitHub: Dropwizard metrics](https://github.com/dropwizard/metrics)
 - [Zipkin is a distributed tracing system that helps us gather timing data for all the disparate services at Twitter](http://twitter.github.io/zipkin)
+- [The Bro Network Security Monitor](https://www.bro.org/)
+- [FLOSS Weekly 296, Bro](https://twit.tv/shows/floss-weekly/episodes/296)
+- [pingdom.com webiste monitoring](https://www.pingdom.com/)
 
 ### Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)
 - [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
@@ -337,6 +340,7 @@
 ### WebPerf & Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 - [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+- [10 emuladores WAN para que pruebes distintas condiciones de red](http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html)
 
 ### Startups
 - [Startupxplore, mapa con todas las startups TI](https://startupxplore.com/)
