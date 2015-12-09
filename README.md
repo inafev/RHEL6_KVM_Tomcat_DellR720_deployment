@@ -246,6 +246,8 @@
 - [Zipkin is a distributed tracing system that helps us gather timing data for all the disparate services at Twitter](http://twitter.github.io/zipkin)
 
 ### Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)
+- [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
+- [Kibana | Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
 - [Nagios Log Server vs. Elasticsearch – Logstash – Kibana](http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/)
 - [Kibana is a highly scalable interface for Logstash and ElasticSearch that allows you to efficiently search, graph, analyze and otherwise make sense of a mountain of logs](http://kibana.org)
 - [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
