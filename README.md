@@ -4,6 +4,7 @@
 - [This document in HTML format rendered with rawgit] (https://rawgit.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/master/RHEL6_KVM_Tomcat_DellR720_deployment.html)  
 - [The URL reference document in HTML format rendered with rawgit](https://rawgit.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/master/URL%20references.html)
 - [Cambios importantes en la gestión de memoria de Java 8 de Oracle](../master/change_in_memory_management_java_8.md)
+- [Reference list 2015](../reference-list/master/Reference-list-2015.md)
 
 ### Table of contents
 1. Remote Deployment Procedure of RHEL6.3 x86_64 on Dell PowerEdge R720
@@ -24,8 +25,6 @@
 16. libvirt-snmp zenoss
 17. KVM’s virsh CLI
 18. rsync (solaris to linux migration), alternatives to portal/CMS Microsoft Sharepoint, etc.
-
-- [Reference list 2015](../../reference-list/master/Reference-list-2015.md)
 
 # New reference list updated, December 2015
 ## Red Hat virtualization
