@@ -44,6 +44,7 @@
 - [Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support](https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/)
 - [Flock 2014 Fedora Conference: Live Streaming Schedule and Video Archives](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
 - [Flock 2015 Fedora Conference: Streaming video](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
+- [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 - [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
