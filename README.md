@@ -245,8 +245,14 @@
 - [GitHub: Dropwizard metrics](https://github.com/dropwizard/metrics)
 - [Zipkin is a distributed tracing system that helps us gather timing data for all the disparate services at Twitter](http://twitter.github.io/zipkin)
 
-### Centralized logging
+### Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)
+- [Nagios Log Server vs. Elasticsearch – Logstash – Kibana](http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/)
+- [Kibana is a highly scalable interface for Logstash and ElasticSearch that allows you to efficiently search, graph, analyze and otherwise make sense of a mountain of logs](http://kibana.org)
+- [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
+- [Using elasticsearch, logstash and kibana to create realtime dashboards (slides)](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
+- [youtube: Logstash Presentation](https://www.youtube.com/watch?v=U3m0jKygAqU)
 - [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
+- [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 
 ### Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
