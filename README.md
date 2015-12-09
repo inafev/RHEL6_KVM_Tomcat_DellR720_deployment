@@ -274,6 +274,7 @@
 - [Linux and Unix Port Scanning With netcat [nc] Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
 - [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+- [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
 - [Linux: Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
@@ -361,6 +362,7 @@
 
 ### Big Data
 - [Big data is simply another name for complicated business intelligence: New visualization tools like Tableau, Clearstory, and Domo aims to unlock enterprise data for a broader audience than before](http://www.infoworld.com/article/2868007/big-data/big-data-is-just-another-name-for-complicated-business-intelligence.html)
+- [Apache Zeppelin, A web-based notebook that enables interactive data analytics](https://zeppelin.incubator.apache.org/)
 
 ### SQL 
 - [Syadmincasts: Crash Course on MySQL](https://sysadmincasts.com/episodes/38-crash-course-on-mysql)
