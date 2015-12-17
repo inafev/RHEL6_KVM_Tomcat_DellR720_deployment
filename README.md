@@ -3,7 +3,6 @@
 - Document Title: Best practices, recommendations and notes: Red Hat Enterprise Linux 6.3 remote installation/deployment on DELL PowerEdge R720 (12G), KVM hypervisor, Tomcat7, Uptime &amp; Performance Tips.
 - [This document in HTML format rendered with rawgit] (https://rawgit.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/master/RHEL6_KVM_Tomcat_DellR720_deployment.html)  
 - [The URL reference document in HTML format rendered with rawgit](https://rawgit.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/master/URL%20references.html)
-- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](../master/change_in_memory_management_java_8.md)
 - [Awesome Tech. My new reference list updated, December 2015](http://awesome-tech.readthedocs.org)
 
 ### Table of contents
